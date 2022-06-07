@@ -1,0 +1,22 @@
+{
+  "clients": [
+    {
+        "id": 1,
+        "nome": "João",
+        "CPF/CNPJ": "34535354353",
+        "Telefone": "56556756756"
+    },
+    {
+        "id": 2,
+        "nome": "Pedro",
+        "CPF/CNPJ": "566566465465",
+        "Telefone": "199998898989"
+    },
+    {
+        "id": 3,
+        "nome": "Maria",
+        "CPF/CNPJ": "464564646456",
+        "Telefone": "198989898989"
+    }
+  ]
+}

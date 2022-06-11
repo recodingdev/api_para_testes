@@ -18,5 +18,27 @@
         "CPF/CNPJ": "464564646456",
         "Telefone": "198989898989"
     }
-  ]
+  ],
+  "statusCards":[
+  {
+      "icon": "BiUserCircle",
+      "count": "10",
+      "title": "Clientes"
+  },
+  {
+      "icon": "BiUserCircle",
+      "count": "2",
+      "title": "Status Imobiliária"
+  },
+  {
+      "icon": "BiUserCircle",
+      "count": "2",
+      "title": "Status Correspodente"
+  },
+  {
+      "icon": "BiUserCircle",
+      "count": "2",
+      "title": "Status Corretor"
+  }
+]
 }
